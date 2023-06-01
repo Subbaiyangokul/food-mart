@@ -1,0 +1,64 @@
+.top-section {
+    width: 100%;
+    background-color: darkgray;
+    height: 50px;
+}
+.logo {top: 25px;
+    left: 50px;
+    position: absolute;
+    background-color: white;
+    border-radius: 10px;
+}
+.buttons {
+    top: 25px;
+    right: 50px;
+    position: absolute;
+    background-color: transparent;
+}
+#button1 {
+    background-color: transparent;
+    border-style: none;
+}
+#button2 {
+    background-color: transparent;
+}
+.heading {
+    background-color: teal;
+}
+.left-section {
+    float: left;
+    width: 30%;
+    padding: 1rem;
+    background-color: darkgray;
+    border: 2px solid teal
+}
+.selection {
+    width: 100%;
+    height: 50px;
+    background-color: teal;
+}
+.right {
+     border-left :1px solid beige;
+           padding: 10px;
+            overflow: hidden;
+    
+}
+.image {
+    display: inline-block;
+    margin: 20px 20px 20px 20px;
+}
+.content {
+    display: inline-block;
+}
+.first-box {
+
+    box-shadow: 5px 8px teal;
+    background-color: darkgray;
+    
+}
+.afterhr {
+    margin-left: 20px;
+}
+.pagination {
+    text-align: center;
+}
